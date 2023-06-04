@@ -5,6 +5,7 @@
 I'm going to follow Two Main Rules:
 
 Code a minimum of an hour every day for the next 100 days.
+
 Complete as many courses, classes, challenges 
 
 My Exception:
